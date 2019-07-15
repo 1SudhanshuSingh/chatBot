@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+.chatBox{
+    width: 40%;
+    margin: 8% auto;
+    border: 1px solid #cecece; 
+}   
+.chatArea{
+    height: 400px;
+    width: 100%;
+    padding: 10px;
+}
+.topSec{
+    background: #cecece; 
+    padding: 5px 0;
+    text-align: center;
+}
+.btmSec{
+    background: #9999ff;
+    padding: 10px;
+}
+#msgInp{
+    width: 80%;
+    height: 28px;
+    padding: 0 0 0 5px;
+}
+#sbBtn{
+    width: 19%;
+    padding: 5px 20px;
+}
+.floatLeft{
+    width: 100%;
+    float: left;
+}
+.botMsg{
+    text-align: right;
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "greet":["Hi, My name is Sud","Hello, I am Sud","Greetings, Sud here"],
+        "askName":["What's your name", "May I know your name", "What should I call you"],
+        "question":["What are you looking for","How may I help you?"],
+        "answer":["Thats what I found","Please have a look"]
+    }
+]
